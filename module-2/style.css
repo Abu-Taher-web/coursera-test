@@ -31,4 +31,8 @@ img{
 }
 p ,h1{
     margin: 10px;
+
+}
+p{
+    width: 80%;
 }
